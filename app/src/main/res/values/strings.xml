@@ -1,0 +1,11 @@
+<resources>
+    <string name="puzzle_title">Puzzle 15</string>
+    <string name="puzzle_subtitle">Raqamlarni tartib bilan joylashtiring</string>
+    <string name="moves_title">Yurishlar</string>
+    <string name="undo">Orqaga</string>
+    <string name="new_game">Yangi o\'yin</string>
+    <string name="win_title">Tabriklaymiz!</string>
+    <string name="win_message">Siz %1$d ta yurishda yechdingiz</string>
+    <string name="win_close">Yopish</string>
+    <string name="app_name">Puzzle 15</string>
+</resources>
